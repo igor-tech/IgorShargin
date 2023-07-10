@@ -1,4 +1,4 @@
-<img style="float: right" src="assets/cat-computer.gif" alt="cat3" width="220"/>
+<img align=right src="assets/cat-computer.gif" alt="cat3" width="220"/>
 
 # 👋 Hi, I am Igor Shargin!
 
@@ -6,7 +6,7 @@
 
 ## 🦾 My experience:
 
-<div style="float: left">
+<div align=left>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
