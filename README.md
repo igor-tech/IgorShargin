@@ -1,4 +1,4 @@
-<img align=right src="assets/cat-computer.gif" alt="cat3" width="220"/>
+<img align=right src="assets/cat-computer.gif" alt="cat3" width="200"/>
 
 # 👋 Hi, I am Igor Shargin!
 
