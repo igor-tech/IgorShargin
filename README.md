@@ -27,8 +27,8 @@
 
 ## 📈 My stats: ##
 
-<img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=igor-tech&show_icons=true&theme=dracula"/>
-<img style="height: 200px" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-tech&layout=compact&theme=dracula"/>
+<img style="height: 200px" alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igor-tech&show_icons=true&theme=dracula"/>
+<img style="height: 200px" alt="stats1" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igor-tech&layout=compact&theme=dracula"/>
 
 ## ⚔️ My CodeWars: ## 
 
