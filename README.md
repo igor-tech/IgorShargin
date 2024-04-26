@@ -28,11 +28,10 @@
 ## 📈 My stats: ##
 
 <img style="height: 200px" alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igor-tech&show_icons=true&theme=dracula"/>
-<img style="height: 200px" alt="stats1" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igor-tech&layout=compact&theme=dracula"/>
 
 ## ⚔️ My CodeWars: ## 
 
-![alt rank](https://www.codewars.com/users/Igor-Shargin/badges/large)
+![alt rank](https://www.codewars.com/users/i.shargin/badges/large)
 ### 📫 How to reach me: ###
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/Igor_Shargin)
